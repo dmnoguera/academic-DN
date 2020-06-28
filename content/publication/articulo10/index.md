@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/cv.pdf
+url_pdf: files/REM-Noguera.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
