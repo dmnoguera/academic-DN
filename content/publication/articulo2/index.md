@@ -1,13 +1,13 @@
 ---
-title: "Efectos macroeconómfafaeqfercial"
+title: "Crecimiento, distribución y condiciones dependientes: un análisis comparativo de los regímenes de crecimiento entre economías centrales y periféricas"
 authors:
 - admin
-- Pablo faeafna
-date: "2020-01-01T00:00:00Z"
-doi: 10.33776/rem.v0i54.3848
+- Emiliano López
+date: "2020-04-03T00:00:00Z"
+doi: 10.20430/ete.v87i346.936 
 
 # Schedule page publish date (NOT publication's date). se pone creo lo programado para ser publicado por la revista
-publishDate: "2019-10-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,11 +16,11 @@ publishDate: "2019-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revista de Economía Mundial, 54, 43-64*"
+publication: "*El Trimestre Económico, 346(2), 463-505*"
 publication_short: ""
 
 abstract:
-El presente artículo analiza los efectos macroeconómicos de las Cadenas Globales de Valor (CGV) sobre la balanza comercial, conjuntamente con la influencia de las mismas en las políticas económicas que tradicionalmente se diseñaron para modificar su resultado (por ejemplo: la devaluación real de la moneda doméstica). Con este objetivo se estima el impacto de las CGV en la balanza comercial en 48 países de América, Europa, Asia y Oceanía, durante el período 1995-2011. Los resultados alcanzados muestran que una mayor participación en las mismas genera un efecto directo de aumento del déficit de balanza comercial y, como efectos indirectos, un incremento en la elasticidad ingreso de las demandas por exportaciones e importaciones, conjuntamente con una disminución en la sensibilidad
+Este artículo indaga sobre las diferencias estructurales de los patrones de crecimiento y distribución del ingreso entre países centrales y periféricos. A lo largo del texto estudiamos cómo operan las dimensiones propias de la dependencia que las economías periféricas poseen en relación con el capital global, con el fin de incitar resultados diferenciales sobre la interacción entre crecimiento y distribución del ingreso. Con ese objetivo, realizamos un análisis mediante diferentes estimaciones de panel para 35 países en el periodo 1980-2014. En particular, además de realizar las estimaciones usuales sobre los componentes de la demanda agregada y las variables más relevantes que dan cuenta del proceso de financiarización, incluimos tres variables que consideramos representativas de la dinámica dependiente que adopta la acumulación de capital en la periferia: la participación en cadenas globales de valor, los niveles de extranjerización de las economías y los diferenciales de productividad laboral.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://rabida.uhu.es/dspace/bitstream/handle/10272/17843/Efectos.pdf?sequence=2
+url_pdf: https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/936
 url_code: ''
 url_dataset: ''
 url_poster: ''
