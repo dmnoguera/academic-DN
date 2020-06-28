@@ -7,7 +7,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2020-01-01T00:00:00Z"
-doi: " http://dx.doi.org/10.33776/rem.v0i54.3848"
+# doi: " http://dx.doi.org/10.33776/rem.v0i54.3848"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
