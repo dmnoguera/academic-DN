@@ -42,23 +42,23 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+# - icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Soy Licenciada en Economía por la Facultad de Ciencias Económicas de la Universidad Nacional de La Plata. Actualmente me encuentro finalizando mis estudios de maestría y desarrollando mi investigación doctoral en la misma casa de estudios en el tópico de Economía Computacional Multi-agente.
+Soy Licenciada en Economía por la Facultad de Ciencias Económicas de la Universidad Nacional de La Plata. Actualmente me encuentro finalizando mis estudios de maestría y desarrollando mi investigación doctoral, en la misma casa de estudios, en el tópico de Economía Computacional Multi-agente.
 
 Cuento con una beca interna doctoral de CONICET con lugar de trabajo en el Laboratorio de Estudios en Sociología y Economía del Trabajo (UNLP-CONICET). Me desempeño como profesora de grado en la Universidad Católica de La Plata y en la Universidad Nacional de La Plata.
