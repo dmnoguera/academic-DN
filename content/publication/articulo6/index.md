@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://aset.org.ar/2019/ponencias/2_Noguera.pdf
+url_pdf: https://aset.org.ar/2019/ponencias/1_Noguera.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
