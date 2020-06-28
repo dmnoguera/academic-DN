@@ -18,7 +18,6 @@ publication: "*Congreso Nacional de Estudios del Trabajo*"
 publication_short: ""
 
 abstract:
-La  proliferación  de  la  lógica  de  las  Cadenas  Globales  de  Valor  (CGV)  ha  coincidido  temporalmente  con  cambios  significativos  en  la  distribución  del  ingreso  salarial  al  interior  de  los  países.  Este  documento  se  propone  identificar  los  vínculos  entre  estos  fenómenos  para  el  caso  de  Argentina.  Utilizado  datos  de  comercio  de  valor  agregado  a  nivel  industria,  mostramos  que  la  participación  en  CGV  tiene  un  efecto  positivo  sobre  la  desigualdad  salarial  entre  trabajadores  calificados  y  no  calificados.  Al  mismo  tiempo,  una  mejora  en  la  posición  que  se  ocupa  en  las  CGV  (sin  que  implique  estar  más  integrado)  contribuye  a  incrementar  la  demanda  de  trabajo calificado y así incrementar el skill premium en la industria.
 
 # Summary. An optional shortened abstract.
 summary: 
