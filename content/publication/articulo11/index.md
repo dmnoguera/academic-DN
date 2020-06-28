@@ -1,5 +1,5 @@
 ---
-title: "Crecimiento, distribucion y condiciones dependientes: un análisis comparativo de los regímenes de crecimiento entre economías centrales y periféricas."
+title: "Crecimiento, distribución y condiciones dependientes: un análisis comparativo de los regímenes de crecimiento entre economías centrales y periféricas."
 authors:
 - admin
 - Emiliano López
