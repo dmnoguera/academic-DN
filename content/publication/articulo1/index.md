@@ -7,7 +7,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2020-01-01T00:00:00Z"
-# doi: " http://dx.doi.org/10.33776/rem.v0i54.3848"
+doi: "https://dialnet.unirioja.es/servlet/articulo?codigo=7383033"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://rabida.uhu.es/dspace/bitstream/handle/10272/17843/Efectos.pdf?sequence=2
 url_code: ''
 url_dataset: ''
 url_poster: ''
