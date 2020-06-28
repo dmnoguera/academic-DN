@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Efectos macroeconómicos de las cadenas globales de valor en la balanza comercial"
 authors:
 - admin
 - Pablo Ignacio Chena
 date: "2020-01-01T00:00:00Z"
 doi: 10.33776/rem.v0i54.3848
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# Schedule page publish date (NOT publication's date). se pone creo lo programado para ser publicado por la revista
+publishDate: "2019-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,13 +16,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Revista de Economía Mundial, 54, 43-64*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:
+El presente artículo analiza los efectos macroeconómicos de las Cadenas Globales de Valor (CGV) sobre la balanza comercial, conjuntamente con la influencia de las mismas en las políticas económicas que tradicionalmente se diseñaron para modificar su resultado (por ejemplo: la devaluación real de la moneda doméstica). Con este objetivo se estima el impacto de las CGV en la balanza comercial en 48 países de América, Europa, Asia y Oceanía, durante el período 1995-2011. Los resultados alcanzados muestran que una mayor participación en las mismas genera un efecto directo de aumento del déficit de balanza comercial y, como efectos indirectos, un incremento en la elasticidad ingreso de las demandas por exportaciones e importaciones, conjuntamente con una disminución en la sensibilidad
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
