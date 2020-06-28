@@ -72,5 +72,7 @@ user_groups:
 
 Soy Licenciada en Economía por la Facultad de Ciencias Económicas de la Universidad Nacional de La Plata. Actualmente me encuentro finalizando mis estudios de maestría y desarrollando mi investigación doctoral en la misma casa de estudios.
 
-Cuento con una beca interna doctoral de CONICET con lugar de trabajo en el Laboratorio de Estudios en Sociología y Economía del Trabajo (UNLP-CONICET). Me desempeño como profesora de grado en la Universidad Católica de La Plata y en la Universidad Nacional de La Plata. Mis intereses de investigación incluyen algunos aspectos de la modelización macroeconómica, el enfoque de economía computacional basada en agentes y el análisis de redes.
+Cuento con una beca interna doctoral de CONICET con lugar de trabajo en el Laboratorio de Estudios en Sociología y Economía del Trabajo (UNLP-CONICET). Me desempeño como profesora de grado en la Universidad Católica de La Plata y en la Universidad Nacional de La Plata.
+
+Mis intereses de investigación incluyen algunos aspectos de la modelización macroeconómica, el enfoque de economía computacional basada en agentes y el análisis de redes.
 
