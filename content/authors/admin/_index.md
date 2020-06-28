@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Deborah Noguera
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Becaria doctoral
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: LESET-IdHICS/CONICET-UNLP
+  url: "http://idihcs.fahce.unlp.edu.ar/leset/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
