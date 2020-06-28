@@ -3,9 +3,6 @@ title: "An example journal article"
 authors:
 - admin
 - Pablo Ignacio Chena
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2020-01-01T00:00:00Z"
 doi: 10.33776/rem.v0i54.3848
 
