@@ -3,7 +3,6 @@ title: "Comercio y desigualdad. Una evaluación de los efectos de las Cadenas Gl
 authors:
 - admin
 date: "2019-08-01T00:00:00Z"
-doi: 10.33776/rem.v0i54.3848
 
 # Schedule page publish date (NOT publication's date). se pone creo lo programado para ser publicado por la revista
 publishDate: "2019-08-01T00:00:00Z"
