@@ -14,7 +14,7 @@ publishDate: "2019-09-01T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Revista de Economía Mundial, 54, 43-64*"
+publication: "*Ediciones Colihue, 33-50*"
 publication_short: ""
 
 abstract:
