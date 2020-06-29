@@ -16,7 +16,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*El Trimestre Económico, 346(2), 463-505*"
+publication: "*El Trimestre Económico, 87(346), 463-505*"
 publication_short: ""
 
 abstract:
