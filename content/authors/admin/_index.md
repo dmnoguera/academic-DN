@@ -24,6 +24,7 @@ interests:
 - Macroeconomía
 - Economía computacional
 - Teoría de redes
+- Mercado de trabajo
 
 education:
   courses:
