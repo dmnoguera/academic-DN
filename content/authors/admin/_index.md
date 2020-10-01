@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Soy Licenciada en Economía por la Facultad de Ciencias Económicas de la Universidad Nacional de La Plata. Actualmente me encuentro finalizando mis estudios de maestría y desarrollando mi investigación doctoral, en la misma casa de estudios, en el tópico de Economía Computacional Multi-agente.
+Licenciada en Economía por la Facultad de Ciencias Económicas de la Universidad Nacional de La Plata. Actualmente finalizando estudios de maestría y desarrollando investigación doctoral, en la misma casa de estudios, en el tópico de Economía Computacional Multi-agente.
 
-Cuento con una beca interna doctoral de CONICET con lugar de trabajo en el Laboratorio de Estudios en Sociología y Economía del Trabajo (UNLP-CONICET). Me desempeño como docente de grado en la Universidad Católica de La Plata y en la Universidad Nacional de La Plata.
+Becaria doctoral de CONICET con lugar de trabajo en el Laboratorio de Estudios en Sociología y Economía del Trabajo (UNLP-CONICET). Docente de grado en la Universidad Católica de La Plata y en la Universidad Nacional de La Plata.
