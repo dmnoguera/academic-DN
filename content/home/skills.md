@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R programming"
+  name = "R Programming"
   description = "-"
   
 [[feature]]
@@ -28,7 +28,7 @@ subtitle = ""
   
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "-"
 
