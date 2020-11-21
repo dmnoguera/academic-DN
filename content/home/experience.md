@@ -25,20 +25,20 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = "2018-01-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  - Seguimiento de variables vinculadas al sector agropecuario bonaerense. 
+  - Procesamiento y análisis de datos. 
+  - Elaboración de informes mensuales y trimestrales.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Analista"
+  company = "Observatorio Productivo Local - UNAJ y Municipalidad de Berazategui"
   company_url = ""
-  location = "California"
+  location = "Berazategui"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2017-06-01"
+  description = """
+  Recolección, Elaboración de informes preliminares y finales de los resultados del relevamiento.
+  """
 
 +++
