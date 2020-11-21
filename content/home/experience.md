@@ -18,8 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Jefa de Trabajos Prácticos"
+  company = "Universidad Católica de La Plata"
+  company_url = ""
+  location = "La Plata"
+  date_start = "2019-08-01"
+  date_end = ""
+  description = """
+  Cursos:
+  - Estadística Aplicada a la Gestión. Licenciatura en Gestión de Recursos Humanos.
+  - Economía y Organización Industrial. Licenciatura en Economía.
+  - Investigación de Mercado. Licenciatura en Comercialización.
+  """
+
+[[experience]]
+  title = "Consultora"
+  company = "Instituto de Estudios Fiscales y Económicos"
+  company_url = "https://www.iefe.org.ar/"
+  location = "La Plata"
+  date_start = "2014-04-01"
+  date_end = ""
+  description = """
+  Responsabilidades:
+  - Procesamiento y análisis de los datos económicos.
+  - Elaboración de informes trimestrales vinculados a temas relevantes en la coyuntura económica y social argentina.
+  """
+
+[[experience]]
   title = "Analista"
-  company = "Observatorio de Bioeconomía"
+  company = "Observatorio de Bioeconomía y Datos Estratégicos - Ministerio de Agroindustria PBA"
   company_url = ""
   location = "Provincia de Buenos Aires"
   date_start = "2017-01-01"
@@ -39,7 +66,23 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2017-06-01"
   description = """
-  Recolección, Elaboración de informes preliminares y finales de los resultados del relevamiento.
+  Responsabilidades:
+  - Diseño de instrumentos de recolección y carga de información de firmas productivas y comerciales del Partido de Berazategui.
+  - Procesamiento y análisis de los datos recolectados.
+  - Elaboración de informes preliminares y finales de los resultados del relevamiento.
+  """
+  
+  [[experience]]
+  title = "Auxiliar de gabinete"
+  company = "Unidad de Información Financiera - Ministerio de Hacienda de la Nación"
+  company_url = ""
+  location = "Capital Federal"
+  date_start = "2014-04-01"
+  date_end = "2016-02-01"
+  description = """
+  Responsabilidades:
+  - Asistencia en el procesamiento y análisis de los datos.
+  - Elaboración de informes de coyuntura económica.
   """
 
 +++
