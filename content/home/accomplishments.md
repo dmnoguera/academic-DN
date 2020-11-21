@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "https://coursera.org/share/aa2f80493f581c68580555f220705034"
   date_start = "2020-08-01"
-  date_end = " "
+  date_end = ""
   description = ""
 
 [[item]]
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   title = "R Programming"
   url = ""
   certificate_url = "https://coursera.org/share/7049df4f9ee633646599e448fa20ce17"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_start = "2020-09-01"
+  date_end = ""
   description = ""
 
 +++
