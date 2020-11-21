@@ -90,8 +90,8 @@ date_format = "Jan 2006"
   company = "Fortalecimiento de las capacidades institucionales locales (MTEySS)"
   company_url = ""
   location = "Berazategui"
-  date_start = "2014-04-01"
-  date_end = ""
+  date_start = "2013-04-01"
+  date_end = "2015-10-01"
   description = """
   Responsabilidades:
   - Formulación y evaluación de protectos productivos locales.
