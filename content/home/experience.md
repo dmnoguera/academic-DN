@@ -26,9 +26,9 @@ date_format = "Jan 2006"
   date_end = "2018-01-01"
   description = """
   Responsabilidades:
-    - Seguimiento de variables vinculadas al sector agropecuario bonaerense. 
-    - Procesamiento y análisis de datos. 
-    - Elaboración de informes mensuales y trimestrales.
+  - Seguimiento de variables vinculadas al sector agropecuario bonaerense. 
+  - Procesamiento y análisis de datos. 
+  - Elaboración de informes mensuales y trimestrales.
   """
 
 [[experience]]
