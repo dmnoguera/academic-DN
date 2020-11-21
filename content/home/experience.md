@@ -72,7 +72,7 @@ date_format = "Jan 2006"
   - Elaboración de informes preliminares y finales de los resultados del relevamiento.
   """
   
-  [[experience]]
+ [[experience]]
   title = "Auxiliar de gabinete"
   company = "Unidad de Información Financiera - Ministerio de Hacienda de la Nación"
   company_url = ""
@@ -84,5 +84,17 @@ date_format = "Jan 2006"
   - Asistencia en el procesamiento y análisis de los datos.
   - Elaboración de informes de coyuntura económica.
   """
-
+  
+[[experience]]
+  title = "Asistente técnico"
+  company = "Fortalecimiento de las capacidades institucionales locales (MTEySS)"
+  company_url = ""
+  location = "Berazategui"
+  date_start = "2014-04-01"
+  date_end = ""
+  description = """
+  Responsabilidades:
+  - Formulación y evaluación de protectos productivos locales.
+  - Procesamiento y análisis de datos relacionados con la actividad económica y productiva local.
+  """
 +++
