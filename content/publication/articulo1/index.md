@@ -3,10 +3,11 @@ title: "Efectos macroeconómicos de las cadenas globales de valor en la balanza 
 authors:
 - admin
 - Pablo Chena
-date: "2020-07-01T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
+doi: 10.33776/rem.v0i54.3848
 
 # Schedule page publish date (NOT publication's date). se pone creo lo programado para ser publicado por la revista
-publishDate: "2020-07-01T00:00:00Z"
+publishDate: "2019-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,7 +16,7 @@ publishDate: "2020-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Cuadernos de Economía Crítica, 12(6), 17-43*"
+publication: "*Revista de Economía Mundial, 54, 43-64*"
 publication_short: ""
 
 abstract:
@@ -23,6 +24,7 @@ abstract:
 
 # Summary. An optional shortened abstract.
 summary: 
+El presente artículo analiza los efectos macroeconómicos de las Cadenas Globales de Valor (CGV) sobre la balanza comercial, conjuntamente con la influencia de las mismas en las políticas económicas que tradicionalmente se diseñaron para modificar su resultado (por ejemplo: la devaluación real de la moneda doméstica). Con este objetivo se estima el impacto de las CGV en la balanza comercial en 48 países de América, Europa, Asia y Oceanía, durante el período 1995-2011. Los resultados alcanzados muestran que una mayor participación en las mismas genera un efecto directo de aumento del déficit de balanza comercial y, como efectos indirectos, un incremento en la elasticidad ingreso de las demandas por exportaciones e importaciones, conjuntamente con una disminución en la sensibilidad
 
 tags:
 - Source Themes
@@ -31,12 +33,12 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://sociedadeconomiacritica.org/ojs/index.php/cec/article/view/197/290
+url_pdf: http://rabida.uhu.es/dspace/bitstream/handle/10272/17843/Efectos.pdf?sequence=2
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: https://www.deborahnoguera.com.ar/files/REM-Noguera.pdf
 url_source: ''
 url_video: ''
 
