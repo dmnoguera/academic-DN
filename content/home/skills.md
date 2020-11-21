@@ -33,8 +33,8 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "fa-chart-network"
-  icon_pack = "fal"
+  icon = "network"
+  icon_pack = "custom"
   name = "Networks"
   description = ""  
 
