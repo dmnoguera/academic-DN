@@ -37,7 +37,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://www.deborahnoguera.com.ar/files/REM-Noguera.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
