@@ -87,7 +87,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Asistente técnico"
-  company = "Fortalecimiento de las capacidades institucionales locales (MTEySS)"
+  company = "Fortalecimiento de las capacidades institucionales locales. MTEySS - Municipalidad de Berazategui"
   company_url = ""
   location = "Berazategui"
   date_start = "2013-04-01"
