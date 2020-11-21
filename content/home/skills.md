@@ -19,6 +19,11 @@ subtitle = ""
   icon_pack = "fab"
   name = "R Programming"
   description = ""
+[[feature]]
+  icon = "network"
+  icon_pack = "custom"
+  name = "Networks"
+  description = ""  
   
 [[feature]]
   icon = "python"
@@ -26,17 +31,13 @@ subtitle = ""
   name = "Python"
   description = ""
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = ""
+# [[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Estadística"
+#  description = ""
   
-[[feature]]
-  icon = "network"
-  icon_pack = "custom"
-  name = "Networks"
-  description = ""  
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
