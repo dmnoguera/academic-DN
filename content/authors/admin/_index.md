@@ -22,16 +22,16 @@ bio:
 
 interests:
 - Macroeconomía
-- Economía computacional
-- Teoría de redes
 - Mercado de trabajo
+- Redes económicas
+- Economía computacional
 
 education:
   courses:
   - course: Doctorado en Economía (en curso)
     institution: Universidad Nacional de La Plata
     
-  - course: Maestría en Economía (en curso)
+  - course: Maestría en Economía (proceso de tesis)
     institution: Universidad Nacional de La Plata
     
   - course: Licenciatura en Economía
