@@ -21,16 +21,22 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
-  
-[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = ""
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = ""
+  
+[[feature]]
+  icon = "fa-chart-network"
+  icon_pack = "fal"
+  name = "Networks"
+  description = ""  
 
 # Uncomment to use emoji icons.
 # [[feature]]
