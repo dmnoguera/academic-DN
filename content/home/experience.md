@@ -60,7 +60,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Analista"
-  company = "Observatorio Productivo Local - UNAJ y Municipalidad de Berazategui"
+  company = "Observatorio Productivo Local. Municipalidad de Berazategui - Universidad Nacional Arturo Jauretche"
   company_url = ""
   location = "Berazategui"
   date_start = "2016-01-01"
@@ -87,14 +87,14 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Asistente técnico"
-  company = "Fortalecimiento de las capacidades institucionales locales. MTEySS - Municipalidad de Berazategui"
+  company = "Fortalecimiento de las capacidades institucionales locales. Ministerio de Trabajo, Empleo y Seguridad Social de la Nación - Municipalidad de Berazategui"
   company_url = ""
   location = "Berazategui"
   date_start = "2013-04-01"
   date_end = "2015-10-01"
   description = """
   Responsabilidades:
-  - Formulación y evaluación de protectos productivos locales.
+  - Formulación y evaluación de proyectos productivos locales.
   - Procesamiento y análisis de datos relacionados con la actividad económica y productiva local.
   """
 +++
