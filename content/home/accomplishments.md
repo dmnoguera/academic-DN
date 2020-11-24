@@ -48,4 +48,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Universidad Austral - Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Introducción a la programación con Python"
+  url = ""
+  certificate_url = "https://coursera.org/share/be82491900262b8d38c84b89dee32954"
+  date_start = "2020-11-01"
+  date_end = ""
+  description = ""
+
 +++
