@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://sociedadeconomiacritica.org/ojs/index.php/cec/article/view/197/290
+url_pdf: http://sociedadeconomiacritica.org/ojs/index.php/cec/article/view/159/370
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -59,5 +59,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
