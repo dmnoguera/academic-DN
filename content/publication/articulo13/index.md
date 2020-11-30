@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: "*Análisis Económico, 90(35), 91-116*"
 publication_short: ""
 
-abstract:
+abstract: "Este artículo tiene como objetivo medir el impacto de las Cadenas Globales de Valor (CGV) en la economía informal y en los empleos informales (no registrados). El análisis empírico se concentra en Argentina durante el período 2004-2015. La metodología econométrica aplicada es un modelo de panel con efectos fijos, que indexa trabajadores y sectores productivos. Los resultados muestran una relación significativa y positiva entre una mayor internacionalización de la producción en CGV y el crecimiento de la informalidad, tanto para los empleos no registrados como para la economía informal; aunque el efecto es mayor en el primer caso. Sin embargo, con respecto a la forma de inserción en las CGV, la informalidad disminuye cuando aumenta la proporción del valor agregado interno incorporado en las exportaciones totales."
 
 
 # Summary. An optional shortened abstract.
@@ -59,5 +59,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
