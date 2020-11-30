@@ -17,14 +17,14 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Revista de Economía Mundial, 54, 43-64*"
-publication_short: ""
+publication_short: "REM"
 
 abstract:
+El presente artículo analiza los efectos macroeconómicos de las Cadenas Globales de Valor (CGV) sobre la balanza comercial, conjuntamente con la influencia de las mismas en las políticas económicas que tradicionalmente se diseñaron para modificar su resultado (por ejemplo: la devaluación real de la moneda doméstica). Con este objetivo se estima el impacto de las CGV en la balanza comercial en 48 países de América, Europa, Asia y Oceanía, durante el período 1995-2011. Los resultados alcanzados muestran que una mayor participación en las mismas genera un efecto directo de aumento del déficit de balanza comercial y, como efectos indirectos, un incremento en la elasticidad ingreso de las demandas por exportaciones e importaciones, conjuntamente con una disminución en la sensibilidad
 
 
 # Summary. An optional shortened abstract.
 summary: 
-El presente artículo analiza los efectos macroeconómicos de las Cadenas Globales de Valor (CGV) sobre la balanza comercial, conjuntamente con la influencia de las mismas en las políticas económicas que tradicionalmente se diseñaron para modificar su resultado (por ejemplo: la devaluación real de la moneda doméstica). Con este objetivo se estima el impacto de las CGV en la balanza comercial en 48 países de América, Europa, Asia y Oceanía, durante el período 1995-2011. Los resultados alcanzados muestran que una mayor participación en las mismas genera un efecto directo de aumento del déficit de balanza comercial y, como efectos indirectos, un incremento en la elasticidad ingreso de las demandas por exportaciones e importaciones, conjuntamente con una disminución en la sensibilidad
 
 tags:
 - Source Themes
