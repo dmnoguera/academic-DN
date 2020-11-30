@@ -18,8 +18,7 @@ publication_types: ["6"]
 publication: "*Universidad Nacional de La Plata, 113-128*"
 publication_short: ""
 
-abstract:
-El trabajo de Pablo Chena y Deborah Noguera, Financiarización vs Industrialización. Análisis de un dilema recurrente en la Argentina?, aporta a la discusión sobre la efectividad de dos tipos o regímenes de crecimiento diferenciados: uno basado en la financiarización y otro basado en la industrialización. Luego de reconocer un giro significativo en las políticas económicas posteriores a 2015 que favoreció la inserción en cadenas globales de valor y la financiarización, el texto realiza un estudio econométrico con datos de panel para diferentes países. A partir de este estudio, los autores afirman que la evidencia que se presenta niega que el control financiero de los modelos nacionales de desarrollo pueda resultar en una estrategia de crecimiento alternativa al desarrollismo clásico. Por el contrario, encuentran que el modelo de financiarización tiende al estancamiento y la distribución regresiva de ingresos, mientras que un modelo de industrialización y bajas tasas de interés, han mostrado efectos positivos para el crecimiento y la distribución de ingresos en las economías de América Latina
+abstract: "El trabajo de Pablo Chena y Deborah Noguera, Financiarización vs Industrialización. Análisis de un dilema recurrente en la Argentina?, aporta a la discusión sobre la efectividad de dos tipos o regímenes de crecimiento diferenciados: uno basado en la financiarización y otro basado en la industrialización. Luego de reconocer un giro significativo en las políticas económicas posteriores a 2015 que favoreció la inserción en cadenas globales de valor y la financiarización, el texto realiza un estudio econométrico con datos de panel para diferentes países. A partir de este estudio, los autores afirman que la evidencia que se presenta niega que el control financiero de los modelos nacionales de desarrollo pueda resultar en una estrategia de crecimiento alternativa al desarrollismo clásico. Por el contrario, encuentran que el modelo de financiarización tiende al estancamiento y la distribución regresiva de ingresos, mientras que un modelo de industrialización y bajas tasas de interés, han mostrado efectos positivos para el crecimiento y la distribución de ingresos en las economías de América Latina."
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -59,5 +58,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
