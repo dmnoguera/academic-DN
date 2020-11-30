@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: "*Cuadernos de Economía Crítica, 12(6), 17-43*"
 publication_short: ""
 
-abstract:
+abstract: "En este artículo argumentamos que las asimetrías productivas en las jurisdicciones existentes en el país dan lugar a diferentes patrones de especialización e inserción en el mercado internacional, afectando la dinámica del empleo en cada uno de los estados subnacionales. Estas diferencias en la composición sectorial del sector productivo y en su orientación exportadora dan lugar a que los efectos de la fluctuación del tipo de cambio real (TCR) sobre el empleo no sean simétricos, sino que dependan de la estructura productiva de cada jurisdicción. En particular, utilizando una metodología de paneles para los 24 estados subnacionales de Argentina y 5 sectores productivos en el período 2004-2017 los resultados sugieren que existe un efecto negativo del TCR sobre el empleo de los distintos sectores productivos que es compensado, en parte, en aquellos sectores con mayor orientación exportadora en la provincia. Estos resultados se mantienen cuando incorporamos controles a nivel nacional y provincial."
 
 
 # Summary. An optional shortened abstract.
