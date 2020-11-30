@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Congresos, jornadas, seminarios
 
 # View.
 #   1 = List
