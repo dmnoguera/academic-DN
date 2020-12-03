@@ -49,15 +49,15 @@ social:
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
  - icon: address-card
    icon_pack: far
    link: https://www.conicet.gov.ar/new_scp/detalle.php?id=53601&datos_academicos=yes
  - icon: university
    icon_pack: fas
    link: http://www.memoria.fahce.unlp.edu.ar/perfiles/1883NogueraD.html
+  - icon: google-scholar
+   icon_pack: ai
+   link: https://scholar.google.com/citations?user=vuPl0DAAAAAJ&hl=es
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
