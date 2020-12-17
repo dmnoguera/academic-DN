@@ -49,5 +49,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-# Foto: Viedma, Río Nego, Argentina
