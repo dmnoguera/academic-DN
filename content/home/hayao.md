@@ -50,7 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 <br>
-<br>
 *La creación de un solo mundo viene de un enorme número de fragmentos y caos*. Hayao Miyazaki
 <br>
 <br>
