@@ -24,7 +24,8 @@ interests:
 - Macroeconomía
 - Mercado de trabajo
 - Redes económicas
-- Economía computacional
+- Modelos dinámicos
+- Sistemas complejos
 
 education:
   courses:
