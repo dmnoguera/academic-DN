@@ -57,5 +57,15 @@ date_format = "Jan 2006"
   date_start = "2020-11-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Deeplearning.ai"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://coursera.org/share/ee0566abbb4a498cedc3e9edcfa146ee"
+  date_start = "2020-12-20"
+  date_end = ""
+  description = ""
 
 +++
