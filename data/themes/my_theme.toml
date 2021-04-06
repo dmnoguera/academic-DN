@@ -5,11 +5,11 @@ name = "Rose"
 light = true
 
 # Primary
-primary = "rgb(162, 74, 162)"
+primary = "#9da8c0" #"rgb(162, 74, 162)"
 
 # Menu
 #menu_primary = "rgb(128, 0, 128)"
-menu_primary = "rgb(85, 24, 85)"
+menu_primary = "#475069" #"rgb(85, 24, 85)"
 menu_text = "#FFF"
 menu_text_active = "rgb(25, 25, 25)"
 menu_title = "#FFF"
