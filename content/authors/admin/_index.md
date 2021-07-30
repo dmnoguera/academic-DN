@@ -32,7 +32,7 @@ education:
   - course: Doctorado en Economía (en curso)
     institution: Universidad Nacional de La Plata
     
-  - course: Maestría en Economía (proceso de tesis)
+  - course: Maestría en Economía
     institution: Universidad Nacional de La Plata
     
   - course: Licenciatura en Economía
