@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Jefa de Trabajos Prácticos"
+  title = "Docente"
   company = "Universidad Católica de La Plata"
   company_url = ""
   location = "La Plata"
@@ -27,6 +27,7 @@ date_format = "Jan 2006"
   description = """
   Cursos:
   - Estadística Aplicada a la Gestión. Licenciatura en Gestión de Recursos Humanos.
+  - Estadística Aplicada a los Negocios. Licenciatura en Comercialización.
   - Economía y Organización Industrial. Licenciatura en Economía.
   - Investigación de Mercado. Licenciatura en Comercialización.
   """
