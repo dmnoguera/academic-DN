@@ -14,8 +14,8 @@ role: Becaria doctoral
 
 # Organizations/Affiliations
 organizations:
-- name: LESET-IdHICS/CONICET-UNLP
-  url: "http://idihcs.fahce.unlp.edu.ar/leset/"
+- name: CONICET
+  url: "https://www.conicet.gov.ar/new_scp/detalle.php?id=53601&datos_academicos=yes"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Soy Licenciada y Magíster en Economía, egresada de la Universidad Nacional de La Plata. Actualmente me encuentro realizando el Doctorado en Economía en la misma casa de estudios, en el marco de una beca doctoral otorgada por CONICET. Formo parte del equipo de trabajo que integra el Laboratorio de Estudios en Economía y Sociología del Trabajo (UNLP-CONICET) y trabajo como docente de grado en la Universidad Católica de La Plata y la Universidad Nacional de La Plata. Previamente me desempeñé en distintos ámbitos del sector público, generalmente en tareas vinculadas al procesamiento y análisis de datos. 
+Soy Licenciada y Magíster en Economía, egresada de la Universidad Nacional de La Plata. Actualmente me encuentro realizando el Doctorado en Economía en la misma casa de estudios, en el marco de una beca doctoral otorgada por CONICET. 
