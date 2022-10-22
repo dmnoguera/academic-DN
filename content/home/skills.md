@@ -32,10 +32,10 @@ subtitle = ""
   description = ""
    
 [[feature]]
- icon = "chart-column"
- icon_pack = "fa-solid"
- name = "Estadística"
- description = ""
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
   
 
 
