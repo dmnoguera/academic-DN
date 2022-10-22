@@ -32,8 +32,8 @@ subtitle = ""
   description = ""
    
 [[feature]]
-  icon = "chart"
-  icon_pack = "fas"
+  icon = "chart-simple"
+  icon_pack = "custom"
   name = "Estadística"
   description = ""
   
