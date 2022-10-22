@@ -32,7 +32,7 @@ subtitle = ""
   description = ""
    
 [[feature]]
-  icon = "chart-column"
+  icon = "chart"
   icon_pack = "fas"
   name = "Estadística"
   description = ""
