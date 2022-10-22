@@ -30,12 +30,12 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = ""
-  
-# [[feature]]
-#  icon = "chart-line"
-#  icon_pack = "fas"
-#  name = "Estadística"
-#  description = ""
+   
+[[feature]]
+ icon = "chart-scatter-bubble"
+ icon_pack = "fa"
+ name = "Estadística"
+ description = ""
   
 
 
