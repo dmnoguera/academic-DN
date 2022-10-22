@@ -33,7 +33,7 @@ subtitle = ""
    
 [[feature]]
  icon = "chart-column"
- icon_pack = "fa"
+ icon_pack = "fa-solid"
  name = "Estadística"
  description = ""
   
