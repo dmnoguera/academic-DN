@@ -31,11 +31,11 @@ subtitle = ""
   name = "Python"
   description = ""
    
-[[feature]]
-  icon = "chart-simple"
-  icon_pack = "custom"
-  name = "Estadística"
-  description = ""
+#[[feature]]
+#  icon = "chart-simple"
+#  icon_pack = "custom"
+#  name = "Estadística"
+#  description = ""
   
 
 
