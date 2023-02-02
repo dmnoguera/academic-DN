@@ -2,10 +2,10 @@
 title: "Workers' positional power: an input-output relations study."
 authors:
 - admin
-date: "2023-02-10T00:00:00Z"
+date: "2023-02-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date). se pone creo lo programado para ser publicado por la revista
-publishDate: "2023-02-10T00:00:00Z"
+publishDate: "2023-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://cnet.fi.uba.ar/netscix23/abstracts/Workers%20positional%20power.%20An%20input-output%20relations%20study.pdf
 url_code: ''
 url_dataset: ''
 url_poster: files/poster.pdf
