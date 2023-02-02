@@ -50,9 +50,9 @@ date_format = "Jan 2006"
   date_start = "2014-04-01"
   date_end = ""
   description = """
-#  Responsabilidades:
-#  - Procesamiento y análisis de los datos económicos.
-#  - Elaboración de informes trimestrales vinculados a temas relevantes en la coyuntura económica y social argentina.
+<!--  Responsabilidades:
+  - Procesamiento y análisis de los datos económicos.
+  - Elaboración de informes trimestrales vinculados a temas relevantes en la coyuntura económica y social argentina.-->
   """
 
 [[experience]]
@@ -63,10 +63,10 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = "2018-01-31"
   description = """
-#  Responsabilidades:
-#  - Seguimiento de variables vinculadas al sector agropecuario bonaerense. 
-#  - Procesamiento y análisis de datos. 
-#  - Elaboración de informes mensuales y trimestrales.
+<!--  Responsabilidades:
+  - Seguimiento de variables vinculadas al sector agropecuario bonaerense. 
+  - Procesamiento y análisis de datos. 
+  - Elaboración de informes mensuales y trimestrales.-->
   """
 
 [[experience]]
@@ -77,10 +77,10 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2017-06-01"
   description = """
-#  Responsabilidades:
-#  - Diseño de instrumentos de recolección y carga de información de firmas productivas y comerciales del Partido de Berazategui.
-#  - Procesamiento y análisis de los datos recolectados.
-#  - Elaboración de informes preliminares y finales de los resultados del relevamiento.
+<!--  Responsabilidades:
+  - Diseño de instrumentos de recolección y carga de información de firmas productivas y comerciales del Partido de Berazategui.
+  - Procesamiento y análisis de los datos recolectados.
+  - Elaboración de informes preliminares y finales de los resultados del relevamiento.-->
   """
   
  [[experience]]
@@ -91,9 +91,9 @@ date_format = "Jan 2006"
   date_start = "2014-04-01"
   date_end = "2016-02-01"
   description = """
-#  Responsabilidades:
-#  - Asistencia en el procesamiento y análisis de los datos.
-#  - Elaboración de informes de coyuntura económica.
+<!--  Responsabilidades:
+  - Asistencia en el procesamiento y análisis de los datos.
+  - Elaboración de informes de coyuntura económica.-->
   """
   
 [[experience]]
@@ -104,8 +104,8 @@ date_format = "Jan 2006"
   date_start = "2013-04-01"
   date_end = "2015-10-01"
   description = """
-#  Responsabilidades:
-#  - Formulación y evaluación de proyectos productivos locales.
-#  - Procesamiento y análisis de datos relacionados con la actividad económica y productiva local.
+<!--  Responsabilidades:
+  - Formulación y evaluación de proyectos productivos locales.
+  - Procesamiento y análisis de datos relacionados con la actividad económica y productiva local.-->
   """
 +++
